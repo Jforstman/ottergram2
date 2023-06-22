@@ -1,3 +1,7 @@
+This project was created on my own by following a book published by Big Nerd Ranch.  It is a website of otter photos.  When you click on each photo, it brings it to the front with its name.  This website was create with React with different components that work together to make the website work.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
